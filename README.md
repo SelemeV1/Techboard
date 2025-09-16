@@ -1,12 +1,29 @@
-# React + Vite
+Este projeto foi desenvolvido durante os cursos da Alura utilizando Vite e React.js.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A aplicação é uma landing page interativa que funciona como um hub de eventos de tecnologia, reunindo informações sobre diferentes áreas, como Front-end, Back-end, DevOps, Inteligência Artificial e Data Science.
 
-Currently, two official plugins are available:
+🔹 Funcionalidades:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🎨 Interface moderna e responsiva, construída com React.js.
 
-## Expanding the ESLint configuration
+⚡️ Ambiente de desenvolvimento rápido e otimizado com Vite.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+📂 Estrutura de componentes reutilizáveis, facilitando manutenção e escalabilidade.
+
+🖼️ Exibição de cards de eventos categorizados por área de tecnologia.
+
+📱 Design responsivo que se adapta a diferentes tamanhos de tela.
+
+🔹 Tecnologias utilizadas:
+
+React.js
+
+Vite
+
+JavaScript (ES6+)
+
+Css
+
+🔹 Objetivo do projeto:
+
+O objetivo principal foi praticar o desenvolvimento front-end com React em um ambiente moderno, entendendo conceitos como componentização, props, estado e estilização, além de aplicar boas práticas para criação de interfaces.
