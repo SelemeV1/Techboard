@@ -1,0 +1,8 @@
+.Banner {
+  background: linear-gradient(180deg, #17d9b1, #06151a);
+  display: flex;
+  justify-content: center;
+}
+.Banner img {
+  max-width: 90%;
+}

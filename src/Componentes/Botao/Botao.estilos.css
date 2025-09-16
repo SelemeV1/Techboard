@@ -1,0 +1,16 @@
+.Botao-evento {
+  color: #212121;
+  background-color: #17d9b1;
+  border: none;
+  border-radius: 8px;
+  padding: 8px 16px;
+  font-size: 16px;
+  font-weight: 600;
+  line-height: 120%;
+}
+
+.Botao-evento:hover {
+  background-color: #12b895; /*  Um Teste de tom um pouco mais escuro de verde-água no hover */
+  cursor: pointer;
+  opacity: 0.8;
+}
